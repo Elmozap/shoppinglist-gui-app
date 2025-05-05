@@ -1,0 +1,29 @@
+# Build and VS artifacts
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.db
+*.db-shm
+*.db-wal
+
+# Visual Studio / Code
+.vs/
+.vscode/
+
+# OS-generated
+Thumbs.db
+.DS_Store
+
+# Rider / JetBrains
+.idea/
+
+# JSON backups or temporary files
+*.json~
+
+# Solution and project-specific
+*.exe
+*.dll
+*.pdb
